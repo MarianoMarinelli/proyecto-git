@@ -1,0 +1,66 @@
+[33mcommit 94351d628bfde2b3c681f13495763b06d767ea24[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Mariano Marinelli <marianomarinelli32@gmail.com>
+Date:   Sat Dec 24 22:08:44 2022 -0300
+
+    se modifico index
+
+[33mcommit fa6ce73dae57a5e77b7fd0821b58e1e59469f4f4[m
+Author: Mariano Marinelli <marianomarinelli32@gmail.com>
+Date:   Fri Dec 23 15:47:51 2022 -0300
+
+    se modifico titulo, y secciones
+
+[33mcommit a7a6c93658702bf7a3dde684e5c03917c377c98f[m
+Author: Mariano Marinelli <marianomarinelli32@gmail.com>
+Date:   Thu Dec 22 20:25:27 2022 -0300
+
+    se agrego gitignore
+
+[33mcommit f80a1703b2994d5c5956e70c186c8fcdd4920aa0[m
+Author: Mariano Marinelli <marianomarinelli32@gmail.com>
+Date:   Thu Dec 22 19:25:21 2022 -0300
+
+    modificacion en footer
+
+[33mcommit f37a3547ead85efcc21299d06cce50b3558ce33e[m
+Merge: 67b139d cdb1104
+Author: Mariano Marinelli <marianomarinelli32@gmail.com>
+Date:   Thu Dec 22 16:01:21 2022 -0300
+
+     fusion de ramas
+
+[33mcommit 67b139d9886c1a6424f0ad87edc03c160b002b81[m
+Author: Mariano Marinelli <marianomarinelli32@gmail.com>
+Date:   Thu Dec 22 14:56:24 2022 -0300
+
+    se modifico titulo
+
+[33mcommit cdb110419fb7f56a86058bdbe0f3e97f05c380bd[m[33m ([m[1;31morigin/rama-franco[m[33m, [m[1;32mrama-franco[m[33m)[m
+Author: Mariano Marinelli <marianomarinelli32@gmail.com>
+Date:   Thu Dec 22 14:39:18 2022 -0300
+
+    se cambio titulo
+
+[33mcommit 51b3978c40e5cf0f3bd9e172fe330ede717ef7a3[m
+Author: Mariano Marinelli <marianomarinelli32@gmail.com>
+Date:   Thu Dec 22 13:45:37 2022 -0300
+
+    Se agregaron secciones
+
+[33mcommit 0deb310eaca927baef44670595008804a313f2d3[m[33m ([m[1;32mviaje-atras[m[33m)[m
+Author: Mariano Marinelli <marianomarinelli32@gmail.com>
+Date:   Thu Dec 22 13:34:54 2022 -0300
+
+    se volvieron a agregar secciones
+
+[33mcommit 25a5d98238ca3495d52be25fca52cd2f481437f5[m
+Author: Mariano Marinelli <marianomarinelli32@gmail.com>
+Date:   Tue Dec 20 20:57:57 2022 -0300
+
+    Se agregaron index, secciones,archivos y estilos
+
+[33mcommit 3a4441d5e8796004dbb420f57f21a0fd7cb50dab[m
+Author: Mariano Marinelli <marianomarinelli32@gmail.com>
+Date:   Tue Dec 20 18:46:21 2022 -0300
+
+    Se inicializo proyecto
